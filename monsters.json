@@ -1521,7 +1521,7 @@
     },
     {
         "id": 451,
-        "name": "Blorie l'Assourdissante",
+        "name": "Blorie l'assourdissante",
         "zones": [
             "Plairie des Blops",
             "Plaine de Cania"
@@ -1603,18 +1603,6 @@
         "step": 25,
         "type": "archi",
         "base": 113
-    },
-    {
-        "id": 459,
-        "name": "Picht le Brioché",
-        "zones": [
-            "Donjon Ensablé",
-            "Plage de Cania",
-            "Calanques d'Astrub"
-        ],
-        "step": 25,
-        "type": "archi",
-        "base": 114
     },
     {
         "id": 460,
@@ -3365,5 +3353,67 @@
         "step": 34,
         "type": "archi",
         "base": 298
+    },
+    {
+        "id": 637,
+        "name": "Alhoui le Répondeur",
+        "zones": [
+            "Dents de Pierre"
+        ],
+        "step": null,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 638,
+        "name": "Félyssion la Gourmande",
+        "zones": [
+            "Dents de Pierre"
+        ],
+        "step": null,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 639,
+        "name": "Kanibière l'Encordée",
+        "zones": [
+            "Dents de Pierre"
+        ],
+        "step": null,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 640,
+        "name": "Larvomatik le Propre",
+        "zones": [
+            "Prairie d'Astrub",
+            "Port de Madrestam",
+            "Rivière Kawaii"
+        ],
+        "step": null,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 641,
+        "name": "Orfélyre le Charmeur",
+        "zones": [
+            "Dents de Pierre"
+        ],
+        "step": null,
+        "type": "archi",
+        "base": null
+    },
+    {
+        "id": 642,
+        "name": "Pantacour le Long",
+        "zones": [
+            "Dents de Pierre"
+        ],
+        "step": null,
+        "type": "archi",
+        "base": null
     }
 ]
